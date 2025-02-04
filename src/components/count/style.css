@@ -1,0 +1,11 @@
+div {
+    margin-top: 50px;
+}
+
+button {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 16px;
+}
