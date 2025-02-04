@@ -4,6 +4,9 @@ import SimpleCounter from './components/count';
 import DisplayText from './components/text';
 import LightSwitch from './components/svet';
 import SimpleList from './components/list';
+import PostList from './components/postList';
+import Timer from './components/timer';
+import UserProfile from './components/userProfile';
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <DisplayText />
       <LightSwitch />
       <SimpleList />
+      <PostList />
+      <Timer />
+      <UserProfile />
     </div>
   );
 }
